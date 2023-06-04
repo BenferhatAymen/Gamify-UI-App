@@ -1,16 +1,5 @@
 # gamify
+a simple app that show Games made to Practice UI using Flutter
+## screenshot
+[Screenshot](https://cdn.discordapp.com/attachments/743172126076567572/1114800075223339070/Screenshot_20230604-071715.jpg)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
